@@ -23,3 +23,11 @@ section{
     margin: 5px;
 
 }
+.contries-list{
+
+    border: 2px solid blueviolet;
+    border-radius: 20px;
+    background-color: rgba(196, 210, 255, 0.454);
+    padding: 5px;
+    margin: 5px;
+}
