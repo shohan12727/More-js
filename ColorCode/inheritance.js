@@ -5,12 +5,12 @@ class person {
 }
 const me = new person () ;
 const you = new person () ;
-// console.log(me.talk());
-// console.log(you.talk());
+console.log(me.talk());
+console.log(you.talk());
 
-// for (let i=0; i<1000; i++){
-//     console.log('fuck cse');
-// }
+for (let i=0; i<1000; i++){
+    console.log('fuck cse');
+}
 
 
 class fd {
@@ -21,8 +21,8 @@ class fd {
 
 const pal = new fd ();
 const rajesh = new fd ();
-// console.log(pal.gandus());
-// console.log(rajesh.gandus());
+console.log(pal.gandus());
+console.log(rajesh.gandus());
 
 
 class personn {
